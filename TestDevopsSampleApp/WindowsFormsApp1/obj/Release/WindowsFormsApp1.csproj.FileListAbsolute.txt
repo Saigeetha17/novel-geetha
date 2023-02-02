@@ -1,0 +1,9 @@
+C:\Geetha\TestDevopsSampleApp\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Geetha\TestDevopsSampleApp\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Geetha\TestDevopsSampleApp\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Geetha\TestDevopsSampleApp\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Geetha\TestDevopsSampleApp\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Geetha\TestDevopsSampleApp\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Geetha\TestDevopsSampleApp\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Geetha\TestDevopsSampleApp\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Geetha\TestDevopsSampleApp\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
